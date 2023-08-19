@@ -3,7 +3,7 @@
 this is a project for the Embedded Systems L1 module in Sprints Automotive Bootcamp.<br />
 This Delivery takes 3 working days.<br />
 ## Project Details:
-The aim of this project is to design a system for a four-driving wheel robot that moves in a rectangular shape. The system will consist of several modules, including Interrupt, timers, motor driver, LED indicators, and button drivers. The robot will be equipped with four motors, two buttons (one for start and one for stop), and four LEDs to indicate the state of movement.<br />
+The aim of this project is to design a system for a four-driving wheel robot that moves in a rectangular shape. The system consists of several modules, including Interrupt, timers, motor driver, LED indicators, and button drivers. The robot is equipped with four motors, two buttons (one for start and one for stop), and four LEDs to indicate the state of movement.<br />
 The Microcontroller used is atmega32.
 ## Project sequence :
 1. The car starts initially from 0 speed.
